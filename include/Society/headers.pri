@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/Society/society.h
+SYNCQT.HEADER_CLASSES = ../../include/Society/Society
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 

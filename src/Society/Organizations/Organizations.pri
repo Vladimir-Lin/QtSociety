@@ -1,0 +1,13 @@
+SOURCES += $${PWD}/nNationLists.cpp
+SOURCES += $${PWD}/nNationEditor.cpp
+SOURCES += $${PWD}/nCountryCode.cpp
+SOURCES += $${PWD}/nAreaCode.cpp
+SOURCES += $${PWD}/nPhoneLists.cpp
+SOURCES += $${PWD}/nAdministrativeDivisions.cpp
+SOURCES += $${PWD}/nOrganizationEdit.cpp
+SOURCES += $${PWD}/nComityEdit.cpp
+SOURCES += $${PWD}/nKinships.cpp
+SOURCES += $${PWD}/nIpaEditor.cpp
+SOURCES += $${PWD}/nCultureLists.cpp
+SOURCES += $${PWD}/nProfessionLists.cpp
+SOURCES += $${PWD}/nOrganizationProcessor.cpp
